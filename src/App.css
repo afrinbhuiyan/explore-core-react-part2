@@ -41,4 +41,10 @@
   color: #888;
 }
 
-
+.card {
+  border: 2px solid rgb(231, 54, 231);
+  padding: 30px 50px;
+  margin: 10px;
+  border-radius: 8px;
+  background: rgba(255, 224, 229, 0.39);
+}
